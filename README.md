@@ -7,8 +7,7 @@ Features: Currently, some features are awaiting development, indicating that the
 
 # ⬇ᆞHow to Install
 
-Download the file, open the file nammed "start.bat" to join my discord
-In my discord go to the channel nammed "📁ᆞNuxiBackup-Tool" to install the file.
+Download the file and open the file named "start.bat" to join my Discord. Once on my Discord server, go to the channel named "📁ᆞNuxiBackup-Tool" to install the file.
 
 # ⚠️ᆞWarning
 
