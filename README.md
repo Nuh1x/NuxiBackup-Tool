@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b2d74c15-fe49-4ac1-83e7-9f55059797c7)
+![image](https://github.com/user-attachments/assets/768e4aea-de8c-417a-875b-4a70866c3e28)
 
 # 🚀ᆞNuxiBackup-Tool
 
